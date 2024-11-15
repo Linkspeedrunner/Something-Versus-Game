@@ -14,3 +14,5 @@ move: arrows
 attacks: numpad 1,2,3,0
 
 space bar to start in the player selection
+
+in the player selection you can change the character pressing "l" or "3"
